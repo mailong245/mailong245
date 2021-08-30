@@ -2,4 +2,4 @@
 - 👀 I’m interested in playing sport, writing code and listening to music
 - 🌱 I’m currently a Backend developer
 - 📫 You can send email for me if you need some contact: mailong245@gmail.com
-- 👨🏼‍💻 This lis my linkedin: linkedin.com/in/long-mai-6b3a9b17a
+- 👨🏼‍💻 This lis my linkedin: http://linkedin.com/in/long-mai-6b3a9b17a
