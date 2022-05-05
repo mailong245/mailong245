@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mailong245
 - 👀 I’m interested in playing sport, writing code and listening to music
 - 🌱 I’m currently a Backend developer
-- 📫 You can send email for me if you need some contact: mailong245@gmail.com
+- 📫 This is my email: mailong245@gmail.com
 - 👨🏼‍💻 This is my linkedin: https://linkedin.com/in/long-mai-6b3a9b17a
